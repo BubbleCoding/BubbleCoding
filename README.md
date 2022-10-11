@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BubbleCoding
 - 👀 I’m interested in new technologies and game design
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning a lot of different things during my masters
 
 
 <!---
